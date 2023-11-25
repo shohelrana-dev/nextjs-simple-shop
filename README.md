@@ -1,3 +1,8 @@
+# Next.js 14 Simple E-Commerce Website with Stripe, and Sanity.io
+
+### Build a modern and performant full stack Next.js 14 Simple Ecommerce Website complete with secure Stripe payment integration, efficient content management through Sanity.io and beautiful styling using Tailwindcss and Shadcn UI for accessible components.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
